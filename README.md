@@ -2,13 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=&height=70&section=header&text=Hyeonjin%20Jeong&fontSize=40&fontColor=845ef7)
 
-
-<h2>Hi there 👋</h2>
+<h3>Hi there 👋</h3>
 
 <p>I'm Hyeonjin Jeong, growing developer</p>
 
-
-<h2>🛠 Tech Stack 🛠</h2>
+<h3>🛠 Tech Stack 🛠</h3>
 
 <p>Techs that I've used at least once</p>
 
@@ -23,12 +21,13 @@
   <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/>
 </p>
 
-<h2>
+<h3>
 💬
 <br>
 <br>
 <a href="mailto:bangawork7@gmail.com" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</h2>
+</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nOeulll)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
