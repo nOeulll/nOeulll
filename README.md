@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React_Native-66d9e8?style=flat&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat&logo=Redux-Saga&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white"/></a>&nbsp
